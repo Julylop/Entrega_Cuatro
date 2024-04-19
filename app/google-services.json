@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21455515899",
+    "project_id": "entrega-cuatro",
+    "storage_bucket": "entrega-cuatro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21455515899:android:6ca42305c2c14a9d33405e",
+        "android_client_info": {
+          "package_name": "com.juliana.entrega_cuatro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsc-skVCbm8XEd7or8rchVMdcloCGtzpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
